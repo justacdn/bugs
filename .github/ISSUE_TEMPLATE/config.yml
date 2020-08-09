@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Website
+    url: https://justacdn.rocks/
+    about: Our website.
+  - name: Documentation
+    url: https://docs.justacdn.rocks/
+    about: Our documentation.
+  - name: Features-Requests
+    url: https://github.com/justacdn/features
+    about: Here you can suggest features for justacdn.rocks platforms.
